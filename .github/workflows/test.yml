@@ -8,4 +8,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - run: echo "Hola mundo"
+      - uses: actions/checkout@v4
+
+      - run: echo "Hola desde MacroDroid" > test.txt
+
+      - run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add test.txt
+          git commit -m "Update test.txt" || exit 0
+          git push
