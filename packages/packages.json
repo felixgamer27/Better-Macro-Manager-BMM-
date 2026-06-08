@@ -11,6 +11,18 @@
     "version": "4.1.0a",
     "versionCode": 4010001
   },
+  "bui": {
+    "author": "Felixgamer27",
+    "category": "touch macro",
+    "desc": "ui interactions but better",
+    "info": "comments are the only documentation currently available",
+    "license": "no license",
+    "link": "https://raw.githubusercontent.com/felixgamer27/Better-Macro-Manager-BMM-/refs/heads/main/packages/-Bui-_Better_Ui_interaction_1.0.ablock.txt",
+    "name": "Better UI Interactions",
+    "type": "actionBlock",
+    "version": "1.0",
+    "versionCode": 1000000
+  },
   "fit2 plugin": {
     "author": "Felixgamer27",
     "category": "bdnd plugin",
