@@ -23,7 +23,7 @@
     "version": "1.0",
     "versionCode": 1000000
   },
-  "fit2 plugin": {
+  "fit2-plugin": {
     "author": "Felixgamer27",
     "category": "bdnd plugin",
     "desc": "A simple plugin that syncs fit2 dnd state with bdnd state",
@@ -35,7 +35,7 @@
     "version": "1.0",
     "versionCode": 1000000
   },
-  "package": {
+  "app-plugin": {
     "author": "Felixgamer27",
     "category": "utilities",
     "desc": "A plugin for BDND that activates it when a selected app is opened, and deactivates it when closed",
