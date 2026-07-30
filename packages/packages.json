@@ -40,15 +40,15 @@
   },
   "bui": {
     "author": "Felixgamer27",
-    "category": "touch macro",
+    "category": "utilities",
     "desc": "ui interactions but better",
-    "info": "comments are the only documentation currently available",
+    "info": "https://github.com/felixgamer27/BUI---Better-UI-Interactions",
     "license": "no license",
-    "link": "https://raw.githubusercontent.com/felixgamer27/Better-Macro-Manager-BMM-/refs/heads/main/packages/-Bui-_Better_Ui_interaction_1.0.ablock.txt",
+    "link": "https://raw.githubusercontent.com/felixgamer27/BUI---Better-UI-Interactions/refs/heads/main/Versions/2.0/Bui_-_Better_Ui_interaction_2.0.ablock",
     "name": "Better UI Interactions",
     "package": "bui",
     "type": "actionBlock",
-    "version": "1.0",
-    "versionCode": 1000000
+    "version": "2.0",
+    "versionCode": 2000000
   }
 }
