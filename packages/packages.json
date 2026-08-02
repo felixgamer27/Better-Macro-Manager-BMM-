@@ -49,6 +49,18 @@
     "package": "bui",
     "type": "actionBlock",
     "version": "2.0",
-    "versionCode": 2000000
+    "versionCode": 2000000,
+  "bnm": {
+    "author": "Felixgamer27",
+    "category": "utilities",
+    "desc": "network manager but better",
+    "info": "no info available",
+    "license": "no license",
+    "link": "https://raw.githubusercontent.com/felixgamer27/Better-Macro-Manager-BMM-/refs/heads/main/packages/BNM_-_Better_Network_Manager_beta_260717.macro",
+    "name": "Better Network Manager",
+    "package": "bnm",
+    "type": "macro",
+    "version": "beta 260717",
+    "versionCode": 10000
   }
 }
