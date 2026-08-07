@@ -1,7 +1,7 @@
 # Better-Macro-Manager [BMM]
 ---
 This is a macro (and action block) manager for macrodroid, its still in beta so don't expect much of it.
-You can use it in the MacroDroid Terminal (BMM is pre-installed there) or the [GUI version](https://github.com/felixgamer27/Better-Macro-Manager-BMM-/releases/tag/release-1.0)
+You can use it in the MacroDroid Terminal (BMM is pre-installed there) or the [GUI version](https://github.com/felixgamer27/Better-Macro-Manager-BMM-/releases/tag/update-1.1)
 
 ## What BMM can do
 - Show available packages
@@ -13,7 +13,7 @@ You can use it in the MacroDroid Terminal (BMM is pre-installed there) or the [G
 Just open the GUI (execute the macro) and click the package you want to download, then click install, and wait a few seconds for the download and automatic installation
 ### Searching and filtering packages
 Click the "Filter and search" button and type the name of the package, and select a category.
-To go back to all the packages, just leave empty the search bar and select the category "show all"
+To go back to all the packages, just click on the "clear filters" button
 
 ## How to add packages
 1. Copy an already existing package from the [packages.json](https://github.com/felixgamer27/Better-Macro-Manager-BMM-/blob/main/packages/packages.json) file
