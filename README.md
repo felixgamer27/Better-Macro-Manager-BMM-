@@ -8,6 +8,22 @@ You can use it in the MacroDroid Terminal (BMM is pre-installed there) or the [G
 - Install packages from the repository using BMI
 - Filter packages by name or category
 
+## Instalation
+You can install the GUI version directly from [this link](https://github.com/felixgamer27/Better-Macro-Manager-BMM-/releases/tag/update-1.1) or using BMM (like an older version or the terminal version)
+### Terminal
+Simply run this command
+
+    bmm install bmm
+  
+or
+
+    bmm -S bmm
+
+to install BMM
+
+### GUI store (like BMM 1.0)
+Just click on "BMM - Store" and then click "Install"
+
 ## How to use it
 ### Instaling a package
 Just open the GUI (execute the macro) and click the package you want to download, then click install, and wait a few seconds for the download and automatic installation
