@@ -63,5 +63,18 @@
     "type": "macro",
     "version": "beta 260717",
     "versionCode": 10000
+  },
+    "bmm": {
+    "author": "Felixgamer27",
+    "category": "utilities",
+    "desc": "a GUI store for the BMM repository",
+    "info": "https://github.com/felixgamer27/Better-Macro-Manager-BMM-/",
+    "license": "no license",
+    "link": "https://raw.githubusercontent.com/felixgamer27/Better-Macro-Manager-BMM-/refs/heads/main/packages/BMM_-_Store_1.1.macro",
+    "name": "BMM - Store",
+    "package": "bmm",
+    "type": "macro",
+    "version": "1,1",
+    "versionCode": 1010000
   }
 }
