@@ -5,12 +5,12 @@
     "desc": "do not disturb but better",
     "info": "https://github.com/felixgamer27/Better-Dont-Disturb",
     "license": "MIT",
-    "link": "https://raw.githubusercontent.com/felixgamer27/Better-Dont-Disturb/main/versions%2F4.x%2F4.1.0a%2F%5BBdnd%5D_Better_don%27t_disturb_4.1.0a_%2B_Bdnd_api%20%281%29.macro",
+    "link": "https://raw.githubusercontent.com/felixgamer27/Better-Dont-Disturb/refs/heads/main/versions/5.x/5.0.0a/Bdnd_-_Better_don't_disturb_5.0.0a.macro",
     "name": "Better don't disturb",
     "package": "bdnd",
     "type": "macro",
-    "version": "4.1.0a",
-    "versionCode": 4010001
+    "version": "5.0.0a",
+    "versionCode": 5000001
   },
   "bdnd-app-plugin": {
     "author": "Felixgamer27",
