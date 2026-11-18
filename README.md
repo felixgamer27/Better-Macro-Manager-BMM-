@@ -3,6 +3,9 @@
 This is a macro (and action block) manager for macrodroid, its still in beta so don't expect much of it.
 You can use it in the MacroDroid Terminal (BMM is pre-installed there) or the [GUI version](https://github.com/felixgamer27/Better-Macro-Manager-BMM-/releases/tag/update-1.1)
 
+<img width="720" height="1556" alt="bmm-store" src="https://github.com/user-attachments/assets/85992b07-79d7-4379-bb0d-328d875a2fe6" />
+
+
 ## What BMM can do
 - Show available packages
 - Install packages from the repository using BMI
