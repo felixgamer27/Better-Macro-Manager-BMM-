@@ -1,4 +1,6 @@
 # Better-Macro-Manager [BMM]
+<img width="279" height="151" alt="bmm-logo" src="https://github.com/user-attachments/assets/b772f2b7-f56e-45aa-89aa-eeb941cd734d" />
+
 ---
 This is a macro (and action block) manager for macrodroid, its still in beta so don't expect much of it.
 You can use it in the MacroDroid Terminal (BMM is pre-installed there) or the [GUI version](https://github.com/felixgamer27/Better-Macro-Manager-BMM-/releases/tag/update-1.1)
